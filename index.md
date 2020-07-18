@@ -1,6 +1,10 @@
 # Movie Releases
 
-A simple app, showing you trailers and information for upcoming movies, arranged by the their release dates in specific countries.
+A simple app, showing you trailers and information for upcoming movies, arranged by their release dates in specific countries.
+
+## Implementation
+
+Written as an exercise in SwiftUI & Combine for iOS13.
 
 ## Support & Contact
 
