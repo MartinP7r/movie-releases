@@ -1,6 +1,6 @@
 # Movie Releases
 
-A simple app that lets you view movie release by specific countries and watch, official trailers.
+A simple app, showing you trailers and information for upcoming movies, arranged by the their release dates in specific countries.
 
 ## Support & Contact
 
